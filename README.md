@@ -1,4 +1,7 @@
-Simple To-Do List Application written in Python. Coding Temple Mini-Project Just run to_do_list_application.py to run the program.
+Simple To-Do List Application written in Python.
+Coding Temple Mini-Project
+
+Just run to_do_list_application.py to run the program.
 
 Features:
 - Add tasks
